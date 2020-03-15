@@ -3,7 +3,7 @@
 Facial Recognition system using machine learning techniques
 Jan 2020 – Apr 2020
 
-Project descriptionSystem Security Capstone in Information System Security Program at SAIT.
+System Security Capstone in Information System Security Program at SAIT.
 • Developed Facial Recognition system using machine learning techniques
 • Developed a logging system, a log-in system with authentication and an alert system.
 • Analyzed machine learning modules such as Haar Cascade Face Detector in OpenCV, HoG Face Detector in Dlib, MTCNN and Keras based on TensorFlow.
